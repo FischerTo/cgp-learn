@@ -1,4 +1,5 @@
 use std::ops::{Add, Mul};
+
 fn main() {
     println!("{}, {}", sf(2, 4).0, sf(2, 4).1)
 }
